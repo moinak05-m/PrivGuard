@@ -25,7 +25,7 @@ import {
 
 import "./App.css";
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://privguard-engp.onrender.com";
 
 const DEMO_TEXT = `Employee: John Doe
 

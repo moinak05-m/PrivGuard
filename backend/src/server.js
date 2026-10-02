@@ -311,8 +311,8 @@ app.use(
 
 /* ---------------- START SERVER ---------------- */
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(
-    `PrivGuard AI backend running on http://localhost:${PORT}`
+    `PrivGuard AI backend running on http://0.0.0.0:${PORT}`
   );
 });
