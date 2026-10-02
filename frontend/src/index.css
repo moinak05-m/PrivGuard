@@ -1,0 +1,12 @@
+html {
+  background: #07111f;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
